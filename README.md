@@ -5,14 +5,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
-- 🎓 &nbsp; Studying Information Technology at UIN Walisongo Semarang.
-
-- 🌱 &nbsp; Learning Machine Learning and Data Science.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- 💡 &nbsp; Exploring new technologies and creating innovative software solutions.
+  
+- 🎓 &nbsp; Pursuing a degree in Information Technology at UIN Walisongo Semarang.
+  
+- 🌱 &nbsp; Currently focused on Machine Learning and Data Science.
+  
+- 💻 &nbsp; Developing web applications as a passion project and side hustle.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -45,11 +44,11 @@
 
 
 <br/>
-<div align="center">
-  <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
 
 
 <br><br>
