@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<a href="https://khoiruladib.my.id/"><img alt="Website" src="khoiruladib.my.id-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://khoiruladib.my.id/"><img alt="Website" src="https://img.shields.io/badge/Website-khoiruladib.my.id-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/khoirul-adib-51b5591b9/?originalSubdomain=id"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-khoiruladib-blue?style=flat-square&logo=linkedin"></a>
 
