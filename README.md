@@ -5,11 +5,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Information Technology at UIN Walisongo Semarang.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning Machine Learning and Data Science.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -21,15 +21,15 @@
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git | Markdown | 
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Corel Draw | Photoshop | Canva
 
 -->
 
@@ -66,13 +66,13 @@
 
 <p align="center">
 
-<a href="https://khoiruladib.my.id/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://khoiruladib.my.id/"><img alt="Website" src="khoiruladib.my.id-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/khoiruladib27/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/khoirul-adib-51b5591b9/?originalSubdomain=id"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-khoiruladib-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/khoiruladib27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/khoiruladib27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-khoiruladib27-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:khoiruladib100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:khoiruladib100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/khoiruladib100@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
