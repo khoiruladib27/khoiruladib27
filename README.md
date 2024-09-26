@@ -38,17 +38,12 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Data Science | Machine Learning| Artificial Intellegence | 
 
 <hr>
 
 
 
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
 
 <br/>
 
