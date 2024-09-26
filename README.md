@@ -1,6 +1,5 @@
 ### Hi there 👋<h2> I'm Khoirul Adib</h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻•💻 About Me </h3>
 
