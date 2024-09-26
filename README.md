@@ -1,5 +1,5 @@
 ### Hi there 👋<h2> I'm Khoirul Adib</h2>
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTaIKxD1tUKD834FjOxOxQiJr-vm_2PVheprzsOyrjLyeE3kswDO0cWXit6-GEAeu6LA&usqp=CAU" width="300"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/OTzJy4d4xGMAAAAM/computer-stick-man.gif" width="400"/>
 
 <h3> 👨🏻•💻 About Me </h3>
 
