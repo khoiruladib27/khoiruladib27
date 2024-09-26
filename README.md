@@ -1,5 +1,5 @@
 ### Hi there 👋<h2> I'm Khoirul Adib</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh#:~:text=Favorite,1%2C497%2C985%20Views" width="300"/>
 
 <h3> 👨🏻•💻 About Me </h3>
 
