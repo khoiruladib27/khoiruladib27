@@ -37,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Data Science | Machine Learning| Artificial Intellegence | 
+- 🔧 &nbsp; Data Science | Machine Learning | Artificial Intellegence | Web Development | Project Manager
 
 <hr>
 
