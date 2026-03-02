@@ -7,7 +7,7 @@
 
 - 💡 &nbsp; Exploring new technologies and creating innovative software solutions.
   
-- 🎓 &nbsp; Pursuing a degree in Information Technology at UIN Walisongo Semarang.
+- 🎓 &nbsp; Pursuing a Master degree at Diponegoro University
   
 - 🌱 &nbsp; Currently focused on Machine Learning and Data Science.
   
