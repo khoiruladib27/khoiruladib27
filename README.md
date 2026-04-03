@@ -44,10 +44,10 @@
 - 📌 Project Management & Software Architecture  
 
 ---
-## ⏱ Coding Activity
+## 💭 Developer Mindset
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khoiruladib&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 ---
 
