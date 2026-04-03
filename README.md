@@ -44,41 +44,11 @@
 - 📌 Project Management & Software Architecture  
 
 ---
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoiruladib&theme=tokyonight"/>
-</p>
+## ⏱ Coding Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoiruladib&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoiruladib&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khoiruladib&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoiruladib&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoiruladib&theme=tokyonight&utcOffset=7"/>
-</p>
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://khoiruladib.my.id/">
-    <img src="https://img.shields.io/badge/Website-khoiruladib.my.id-000?style=for-the-badge&logo=google-chrome"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khoirul-adib-51b5591b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khoirul_Adib-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/khoiruladib27/">
-    <img src="https://img.shields.io/badge/Instagram-@khoiruladib27-black?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="mailto:khoiruladib100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 ---
 
 ## ⚡ Fun Fact
