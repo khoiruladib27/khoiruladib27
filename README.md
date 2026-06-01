@@ -1,58 +1,78 @@
 <h1 align="center">Hi 👋, I'm Khoirul Adib</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | 💻 Software Developer | 📊 Data Science Learner</h3>
+
+<h3 align="center">
+Full Stack Developer • AI Engineer • Web GIS Developer
+</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/OTzJy4d4xGMAAAAM/computer-stick-man.gif" width="250"/>
+Building scalable applications, intelligent systems, and geospatial solutions.
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+## 🚀 About Me
 
-- 💡 Passionate about **technology, problem-solving, and innovation**
-- 🎓 Currently pursuing a **Master’s Degree at Diponegoro University**
-- 🌱 Focusing on **Machine Learning & Data Science**
-- 💻 Building **web applications** as side projects & freelance work
-- ⚡ Always curious about how systems work under the hood
+* 💻 Full Stack Developer focused on modern web applications
+* 🤖 Passionate about Artificial Intelligence and intelligent systems
+* 🗺️ Interested in Web GIS, spatial analysis, and geospatial technologies
+* 📊 Enjoy solving problems through data-driven solutions
+* 🎓 Master's Student at Diponegoro University
+* 🌱 Always learning new technologies and software engineering practices
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+### Frontend
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss)
 
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+
+### Database & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+
+### AI & GIS
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square\&logo=leaflet)
+![Web GIS](https://img.shields.io/badge/Web_GIS-0A66C2?style=flat-square)
 
 ---
 
-## 🚀 Currently Learning
+## 🌱 Currently Exploring
 
-- 🤖 Machine Learning & Artificial Intelligence  
-- 📊 Data Science & Data Analysis  
-- 🌐 Advanced Web Development  
-- 📌 Project Management & Software Architecture  
+* Full-Stack Developer
+* Artificial Intelligence Engineer
+* Agentic Systems
+* Software Architecture
+* Cloud Computing
+* Geospatial Intelligence
+* Data Analytics
 
 ---
-## 💭 Developer Mindset
+
+## 📫 Connect With Me
+
+📧 [khoiruladib100@gmail.com](mailto:khoiruladib100@gmail.com)
+
+🌐 Portfolio: https://khoiruladib.sedoyo.com
+
+💼 LinkedIn: linkedin.com/in/khoiruladib27
+
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>"Building products that create impact through technology."</i>
 </p>
----
-
-## ⚡ Fun Fact
-
-> “I build things not just to work… but to *make an impact*.”
-
----
